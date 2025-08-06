@@ -1,0 +1,20 @@
+body    {
+    color: white;
+    background: black;
+margin: 0px;
+}
+
+header {
+border-bottom: solid 2px rgb(0, 0, 128);
+padding: 20px;
+font-size: 32px;
+color: rgb(0, 0, 128)
+
+}
+
+section {
+
+    background :rgb(53, 53, 109)
+    padding-bottom:  80px;
+padding-top: 80px;
+}
